@@ -3,8 +3,8 @@
 - 🔭 I’m currently working as iOS Engineer
 - 🌱 I’m currently learning iOS Development
 - 💬 Ask me about Swift or SwiftUI
-- 📫 How to reach me: 
 
+### 📫 How to reach me: 
 <a href="https://www.instagram.com/gusadiprntaa/">
   <img align="left" alt="Gusadi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -13,11 +13,11 @@
 </a>
 
 <br/>
-**languages and tools:**  
 
+### languages and tools:  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 
 <br/>
-📈 My Github Stats
+### 📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gusadi09&show_icons=true&theme=gotham" alt="gusadi09" />
