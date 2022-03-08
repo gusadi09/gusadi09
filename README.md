@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**gusadi09/gusadi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as iOS Engineer
+- 🌱 I’m currently learning iOS Development
+- 💬 Ask me about Swift or SwiftUI
+- 📫 How to reach me: 
 
-Here are some ideas to get you started:
+<a href="https://www.instagram.com/gusadiprntaa/">
+  <img align="left" alt="Gusadi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/agus-adi-pranata/">
+  <img align="left" alt="Gusadi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/swift.png"></code>
