@@ -8,9 +8,6 @@
 <a href="https://www.instagram.com/gusadiprntaa/">
   <img align="left" alt="Gusadi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/agus-adi-pranata/">
-  <img align="left" alt="Gusadi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 <br/>
 
