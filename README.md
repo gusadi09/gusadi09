@@ -5,8 +5,8 @@
 - 💬 Ask me about Swift or SwiftUI
 
 ### 📫 How to reach me: 
-<a href="https://www.instagram.com/gusadiprntaa/">
-  <img align="left" alt="Gusadi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.linkedin.com/in/agus-adi-pranata/">
+  <img align="left" alt="Gusadi's LinkedIn" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
 <br/>
